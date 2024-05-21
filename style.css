@@ -1,0 +1,23 @@
+body {
+background-color: #000;
+text-align: center;
+}
+p {
+color: #C5C6C7;
+}
+
+h1 {
+    color: #66FCF1;
+    text-size-adjust: 30px;
+}
+
+h2 {
+    color: #45A298;
+}
+
+button {
+    border-color: #66FCF1;
+   background-color:black;
+    color: white;
+
+}
